@@ -80,6 +80,7 @@ Build/*/**
 /MyProject4/Content/M5VFXVOL2
 /MyProject4/Content/Fab
 /MyProject4/Content/Developers
+/MyProject4/Content/AddedContent/*
 
 /.history/*
 .DS_Store
