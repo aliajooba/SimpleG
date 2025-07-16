@@ -73,3 +73,10 @@ Build/*/**
 
 # Cache files for the editor to use
 /MyProject4/DerivedDataCache/*
+
+#Content
+/MyProject4/Content/*
+
+/.history/*
+.DS_Store
+/MyProject4/.DS_Store
