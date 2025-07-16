@@ -75,7 +75,11 @@ Build/*/**
 /MyProject4/DerivedDataCache/*
 
 #Content
-/MyProject4/Content/*
+/MyProject4/Content/PN_GrassLibrary
+/MyProject4/Content/PN_interactiveSpruceForest
+/MyProject4/Content/M5VFXVOL2
+/MyProject4/Content/Fab
+/MyProject4/Content/Developers
 
 /.history/*
 .DS_Store
